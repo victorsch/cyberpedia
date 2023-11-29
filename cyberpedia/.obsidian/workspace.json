@@ -19,16 +19,24 @@
             "id": "e40109d0571dd2b3",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "e3dd25ea451a060b",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "ctfzone23 web Raw Love.md",
+                "file": "web/INTIGRITI 1337UP LIVE 2023 - My Music.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -57,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#web",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +82,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ctfzone23 web Raw Love.md",
+                "file": "web/INTIGRITI 1337UP LIVE 2023 - My Music.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +119,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ctfzone23 web Raw Love.md",
+                "file": "web/INTIGRITI 1337UP LIVE 2023 - My Music.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ctfzone23 web Raw Love.md"
+                "file": "web/INTIGRITI 1337UP LIVE 2023 - My Music.md"
               }
             }
           }
@@ -156,9 +163,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b58155fe4734ad47",
+  "active": "4da48b159133e6ac",
   "lastOpenFiles": [
-    "ctfzone23 web Raw Love.md",
+    "web/INTIGRITI 1337UP LIVE 2023 - My Music.md",
+    "web/ctfzone23 web Raw Love.md",
     "web"
   ]
 }
